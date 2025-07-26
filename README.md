@@ -4,7 +4,7 @@ A personal portfolio website built with React.js to showcase my projects, skills
 
 ## 🌐 Live Demo
 
-Check out the live site here: (https://abhiadabala.github.io/portfolio-react)
+Check out the live site here: (https://abhiadabala.github.io/portfolio)
 
 
 ## ✨ Features
@@ -27,7 +27,7 @@ Check out the live site here: (https://abhiadabala.github.io/portfolio-react)
 To run locally:
 
 ```bash
-git clone https://github.com/abhiadabala/portfolio-react.git
+git clone https://github.com/abhiadabala/portfolio.git
 cd portfolio-react
 npm install
 npm start
