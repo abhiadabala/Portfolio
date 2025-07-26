@@ -28,6 +28,5 @@ To run locally:
 
 ```bash
 git clone https://github.com/abhiadabala/portfolio.git
-cd portfolio-react
 npm install
 npm start
